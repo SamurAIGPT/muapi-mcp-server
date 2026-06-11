@@ -1,0 +1,15 @@
+runtime: "container"
+startCommand:
+  type: http
+  configSchema:
+    type: object
+    required:
+      - apiKey
+    properties:
+      apiKey:
+        type: string
+        title: MuAPI API Key
+        description: Your API key from muapi.com/dashboard/keys
+        format: password
+  exampleConfig:
+    apiKey: "your_muapi_key_here"
