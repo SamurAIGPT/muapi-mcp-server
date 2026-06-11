@@ -1,0 +1,14 @@
+{
+  "name": "muapi",
+  "description": "Generate images, videos, and audio using 100+ AI models via muapi.ai",
+  "version": "1.0.0",
+  "author": {
+    "name": "MuAPI",
+    "email": "support@muapi.ai",
+    "url": "https://muapi.ai"
+  },
+  "homepage": "https://muapi.ai",
+  "repository": "https://github.com/SamurAIGPT/muapi-mcp-server",
+  "license": "ISC",
+  "categories": ["AI", "Media", "Image Generation", "Video Generation"]
+}
