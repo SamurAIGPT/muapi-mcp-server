@@ -4,6 +4,19 @@ Connect any MCP-compatible AI assistant to [muapi.ai](https://muapi.ai) — acce
 
 [![muapi](https://img.shields.io/badge/muapi.ai-platform-blue)](https://muapi.ai)
 [![MCP](https://img.shields.io/badge/MCP-compatible-green)](https://modelcontextprotocol.io)
+[![smithery badge](https://smithery.ai/badge/am-1m1k/muapi)](https://smithery.ai/servers/am-1m1k/muapi)
+
+---
+
+## Install via Smithery
+
+The easiest way to install for any MCP client:
+
+```bash
+npx -y @smithery/cli install am-1m1k/muapi --client claude
+```
+
+Or browse the listing: [smithery.ai/servers/am-1m1k/muapi](https://smithery.ai/servers/am-1m1k/muapi)
 
 ---
 
