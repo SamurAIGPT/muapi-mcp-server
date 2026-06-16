@@ -1,8 +1,8 @@
 # muapi MCP Server
 
-Connect any MCP-compatible AI assistant to [muapi.ai](https://muapi.ai) — access 100+ generative AI models (image, video, audio, enhance, edit) directly from Claude, Cursor, Windsurf, and more.
+Connect any MCP-compatible AI assistant to [muapi.ai](https://muapi.ai?utm_source=github&utm_medium=readme&utm_campaign=muapi-mcp-server) — access 100+ generative AI models (image, video, audio, enhance, edit) directly from Claude, Cursor, Windsurf, and more.
 
-[![muapi](https://img.shields.io/badge/muapi.ai-platform-blue)](https://muapi.ai)
+[![muapi](https://img.shields.io/badge/muapi.ai-platform-blue)](https://muapi.ai?utm_source=github&utm_medium=readme&utm_campaign=muapi-mcp-server)
 [![MCP](https://img.shields.io/badge/MCP-compatible-green)](https://modelcontextprotocol.io)
 [![smithery badge](https://smithery.ai/badge/am-1m1k/muapi)](https://smithery.ai/servers/am-1m1k/muapi)
 
@@ -24,7 +24,7 @@ Or browse the listing: [smithery.ai/servers/am-1m1k/muapi](https://smithery.ai/s
 
 The fastest way: use the hosted MCP server at `https://api.muapi.ai/mcp`. No installation required — just add it to your client.
 
-**Get your API key at [muapi.ai/dashboard/keys](https://muapi.ai/dashboard/keys)**
+**Get your API key at [muapi.ai/dashboard/keys](https://muapi.ai/dashboard/keys?utm_source=github&utm_medium=readme&utm_campaign=muapi-mcp-server)**
 
 ### Claude Code
 
@@ -276,13 +276,13 @@ Authorization: Bearer YOUR_MUAPI_KEY
 
 **Self-hosted server** — pass via `x-api-key` header or set `MUAPIAPP_API_KEY` environment variable.
 
-Get your API key at [muapi.ai/dashboard/keys](https://muapi.ai/dashboard/keys).
+Get your API key at [muapi.ai/dashboard/keys](https://muapi.ai/dashboard/keys?utm_source=github&utm_medium=readme&utm_campaign=muapi-mcp-server).
 
 ---
 
 ## Links
 
-- [muapi.ai](https://muapi.ai) — Platform
+- [muapi.ai](https://muapi.ai?utm_source=github&utm_medium=readme&utm_campaign=muapi-mcp-server) — Platform
 - [API Documentation](https://api.muapi.ai/docs) — Full REST API reference
 - [muapi CLI](https://github.com/SamurAIGPT/muapi-cli) — Command-line interface
-- [Dashboard](https://muapi.ai/dashboard) — Manage keys and credits
+- [Dashboard](https://muapi.ai/dashboard?utm_source=github&utm_medium=readme&utm_campaign=muapi-mcp-server) — Manage keys and credits
