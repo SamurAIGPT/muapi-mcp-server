@@ -21,6 +21,11 @@ npx -y @smithery/cli install am-1m1k/muapi --client claude
 
 Or browse the listing: [smithery.ai/servers/am-1m1k/muapi](https://smithery.ai/servers/am-1m1k/muapi)
 
+## Related Projects
+
+- [seedance-2-mcp](https://github.com/Anil-matcha/seedance-2-mcp) — Focused MCP server for Seedance 2 video generation with model-specific schemas.
+- [seedance-2.5-mcp](https://github.com/Anil-matcha/seedance-2.5-mcp) — Focused MCP server for Seedance 2.5 Preview with 720p/480p route selection.
+
 ---
 
 ## Quick Start (Hosted — Recommended)
