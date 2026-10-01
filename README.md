@@ -25,6 +25,7 @@ Or browse the listing: [smithery.ai/servers/am-1m1k/muapi](https://smithery.ai/s
 
 - [seedance-2-mcp](https://github.com/Anil-matcha/seedance-2-mcp) — Focused MCP server for Seedance 2 video generation with model-specific schemas.
 - [seedance-2.5-mcp](https://github.com/Anil-matcha/seedance-2.5-mcp) — Focused MCP server for Seedance 2.5 Preview with 720p/480p route selection.
+- [muapi-skills](https://github.com/SamurAIGPT/muapi-skills) — Agent skills for Claude Code, Cursor and Codex: the same Muapi models without configuring an MCP server.
 
 ---
 
